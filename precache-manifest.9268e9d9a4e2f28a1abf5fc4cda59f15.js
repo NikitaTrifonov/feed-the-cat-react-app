@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38b9e37a44385c7f4b1c4297a9c1b590",
+    "revision": "3c9bb491ac453b80eec79281b8458e86",
     "url": "/feed-the-cat-react-app/index.html"
   },
   {
-    "revision": "cafa622f209781b3dd4a",
-    "url": "/feed-the-cat-react-app/static/css/main.4112f00b.chunk.css"
+    "revision": "6bb91fea6f900967a8c5",
+    "url": "/feed-the-cat-react-app/static/css/main.43884605.chunk.css"
   },
   {
     "revision": "4c8f2f2435ede73d2166",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/feed-the-cat-react-app/static/js/2.2dec9015.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cafa622f209781b3dd4a",
+    "revision": "6bb91fea6f900967a8c5",
     "url": "/feed-the-cat-react-app/static/js/main.767e7d34.chunk.js"
   },
   {
@@ -29,7 +29,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "9c44a2b92a7299df245229d9f2b7f75c",
-    "url": "/feed-the-cat-react-app/static/media/defaultProductBackHover.9c44a2b9.png"
+    "url": "/feed-the-cat-react-app/static/media/defaultHover.9c44a2b9.png"
   },
   {
     "revision": "41f2356921b3c52fecba6c8e80983a9f",
