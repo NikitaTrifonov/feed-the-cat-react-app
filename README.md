@@ -1,68 +1,49 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## Расскажите, чем, на ваш взгляд, отличается хорошая верстка от плохой с точки зрения :
 
-### `npm start`
+Пользователя - отображение сайта и интерактивные действия на нём, должны отображаться корректно, без зависаний на разных устройствах и браузерах.<br /><br />
+Менеджера проекта - верстка должна соответствовать заданию.<br /><br />
+Дизайнера - верстка должна соответствовать задумке дизайнера.<br /><br />
+Верстальщика - верстка должна быть выполнена по определенной методологии, выбранной на проекте.<br /><br />
+Клиентского программиста - структура сайта, вложенность блоков, названия классов должны быть понятны программисту.<br /><br />
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Опишите основные особенности верстки крупных многостраничных сайтов, дизайн которых может меняться в процессе реализации и поддержки.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+На проекте, командой разработчиков должны быть оговорены общие принципы, способы и методологии написания кода и верстки, например, БЭМ. Для легкого изменения дизайна отдельный элементов лучше придерживаться компонентной структуры.
 
-### `npm test`
+## Опишите основные особенности верстки сайтов, которые должны одинаково хорошо отображаться как на любом современном компьютере, так и на смартфонах и планшетах под управлением iOS и Android. 
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Протестировать верстку в основных браузерах, а с помощью встроенных инструментов разработчика, изменять тип устройства, для проверки корректного отображения. Лучше всего, проверять работу на реальных устройствах, т.к. на различных операционных системах и устройствах установлены разные версии браузеров и отображение сайта на них может отличаться. 
 
-### `npm run build`
+## Расскажите, какие инструменты помогают вам экономить время в процессе написания, проверки и отладки кода.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Использую Vs code с различными расширениями, такие как: ”Auto Close Tag”, ”Auto import”, ”Bracket Pair Colorizer”, “Prettier” и др, помогающие более быстро писать код,  предотвращающие ошибки и структурирующие общий вид кода.  Несколько раз, при верстке макетов, использовал Sass в паре с Gulp.Отладку кода провожу с помощью инструментов разработчика в Chrome. 
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Вам нужно понять, почему страница отображается некорректно в Safari на iOS и в IE на Windows. Код писали не вы, доступа к исходникам у вас нет. Ваши действия?
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Проанализирую код страницы с помощью инструментов разработчика. Проверю, например, с помощью сайта caniuse, поддерживает ли браузер то, или иное правило css. В случае трудностей, начну гуглить, вдруг есть какие-то особые случаи. 
 
-### `npm run eject`
+## Дизайнер отдал вам макет, в котором не показано, как должны выглядеть интерактивные элементы при наведении мыши. Ваши действия
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Связаться с дизайнером и обговорить ситуацию.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Какие ресурсы вы используете для развития в профессиональной сфере? Приведите несколько конкретных примеров (сайты, блоги и так далее).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Для изучения  и справки по Js использую https://learn.javascript.ru/ , https://developer.mozilla.org/ru/ <br />
+Изучаю react по видео курсу https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8 <br />
+Также пользуюсь информацией с сайта https://ru.reactjs.org/
+Проходил курсы html, css, js  на сайте https://htmlacademy.ru/study
+Изучал C#, .net MVC 5  и  PostgreSql на  сайте https://metanit.com/
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Расскажите нам о себе и предоставьте несколько ссылок на последние работы, выполненные вами.
 
-## Learn More
+Трифонов Никита Дмитриевич. 27 лет.  Закончил Рязанский Государственный Радиотехнический университет, по специальности «Программная инженерия» в 2015 году. Увлекаюсь баскетболом, игрой на электрогитаре. В данный момент изучаю Js, React. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+https://github.com/NikitaTrifonov?tab=repositories
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
