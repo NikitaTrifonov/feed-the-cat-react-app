@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/feed-the-cat-react-app/static/css/main.2d54577d.chunk.css",
+    "main.css": "/feed-the-cat-react-app/static/css/main.61b5bc62.chunk.css",
     "main.js": "/feed-the-cat-react-app/static/js/main.767e7d34.chunk.js",
     "main.js.map": "/feed-the-cat-react-app/static/js/main.767e7d34.chunk.js.map",
     "runtime-main.js": "/feed-the-cat-react-app/static/js/runtime-main.0e6df6cf.js",
@@ -8,9 +8,9 @@
     "static/js/2.2dec9015.chunk.js": "/feed-the-cat-react-app/static/js/2.2dec9015.chunk.js",
     "static/js/2.2dec9015.chunk.js.map": "/feed-the-cat-react-app/static/js/2.2dec9015.chunk.js.map",
     "index.html": "/feed-the-cat-react-app/index.html",
-    "precache-manifest.0adccf27e5aa352c72b891d190265b2d.js": "/feed-the-cat-react-app/precache-manifest.0adccf27e5aa352c72b891d190265b2d.js",
+    "precache-manifest.3b0dbd97d8ed852686ae4734de81cee2.js": "/feed-the-cat-react-app/precache-manifest.3b0dbd97d8ed852686ae4734de81cee2.js",
     "service-worker.js": "/feed-the-cat-react-app/service-worker.js",
-    "static/css/main.2d54577d.chunk.css.map": "/feed-the-cat-react-app/static/css/main.2d54577d.chunk.css.map",
+    "static/css/main.61b5bc62.chunk.css.map": "/feed-the-cat-react-app/static/css/main.61b5bc62.chunk.css.map",
     "static/js/2.2dec9015.chunk.js.LICENSE.txt": "/feed-the-cat-react-app/static/js/2.2dec9015.chunk.js.LICENSE.txt",
     "static/media/App.css": "/feed-the-cat-react-app/static/media/background.1717a88a.png",
     "static/media/product.module.css": "/feed-the-cat-react-app/static/media/selectedProductHover.3248ad64.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.0e6df6cf.js",
     "static/js/2.2dec9015.chunk.js",
-    "static/css/main.2d54577d.chunk.css",
+    "static/css/main.61b5bc62.chunk.css",
     "static/js/main.767e7d34.chunk.js"
   ]
 }
