@@ -1,6 +1,6 @@
 
 
-## Тестовое задание для Fun-box
+## Учебный проект Feed-the-cat
 
 https://nikitatrifonov.github.io/feed-the-cat-react-app/
 
