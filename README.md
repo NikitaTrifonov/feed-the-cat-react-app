@@ -4,6 +4,9 @@
 
 https://nikitatrifonov.github.io/feed-the-cat-react-app/
 
+## Использовано
+react, html, css
+
 
 
 
